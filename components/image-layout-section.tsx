@@ -10,7 +10,7 @@ const features = [
     title: "We Build Your Dream House",
     description: "Turn your vision into reality with our expert home construction services.",
     icon: <Home className="h-12 w-12 text-secondary" />,
-    image: "/Dream-home.jpeg?height=400&width=600",
+    image: "/Dream-Home.jpeg?height=400&width=600",
   },
   {
     title: "Villa Constructions",
